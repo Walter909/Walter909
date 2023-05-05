@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Walter909
-- 👀 I’m interested in Web development, Cloud computing
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Computer Science at Calpoly
