@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Walter909
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Computer Science at Calpoly
+- 👀 I’m interested in Web development, Game development & Data Science /AI research
+- 🌱 Calpoly 23'
